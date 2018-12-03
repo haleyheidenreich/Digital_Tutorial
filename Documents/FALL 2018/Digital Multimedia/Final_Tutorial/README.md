@@ -2,11 +2,11 @@
 ## By: Haley Heidenreich 
 ### The purpose of the content for this tutorial is to give readers/students a better understanding of digial audio on a more basic level. A not "too-in depth" approach to reviewing digial audio and it's concept/terms. 
 ### This is geared towards young college students and professionals who want to get a brief gist of digital audio (aka "crash course"). 
----
+
 [README.md](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/README.md)
 [pg1.md](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/pg1.md)
 [pg2.md](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/pg2.md)
----
+
 ## __**Table of Contents**__ 
 
 * Introduction to Digital Audio 
