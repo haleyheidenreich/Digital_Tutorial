@@ -4,9 +4,9 @@
 ### This is geared towards young college students and professionals who want to get a brief gist of digital audio (aka "crash course"). 
 
 [navbar]
-* [Home](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/README.md)
-* [Page1](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/pg1.md)
-* [Page2](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/pg2.md)
+* [README.md](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/README.md)
+* [pg1.md](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/pg1.md)
+* [pg2.md](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/pg2.md)
 [/navbar]
 
 ## __**Table of Contents**__ 
