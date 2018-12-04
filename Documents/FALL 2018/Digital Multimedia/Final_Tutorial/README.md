@@ -35,6 +35,8 @@
 
 ![Mp3](https://github.com/haleyheidenreich/Digital_Tutorial/blob/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/mp3.jpg)
 
+### A chart to help visualize Analog and Digital Audio from Original
+
 ![Digital AudioVS.Analog Audio](https://github.com/haleyheidenreich/Digital_Tutorial/blob/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/Analog-Digital.png)
 
 
