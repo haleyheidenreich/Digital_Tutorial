@@ -3,7 +3,7 @@
 ### The purpose of the content for this tutorial is to give readers/students a better understanding of digial audio on a more basic level. A not "too-in depth" approach to reviewing digial audio and it's concept/terms. 
 ### This is geared towards young college students and professionals who want to get a brief gist of digital audio (aka "crash course"). 
 
-* [README.md](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/README.md)
+* [README.md](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/README.md)
 * [pg1.md](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/pg1.md)
 * [pg2.md](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/pg2.md)
 
