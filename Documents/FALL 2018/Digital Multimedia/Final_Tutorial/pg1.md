@@ -1,9 +1,9 @@
 #  __Sampling and Bit Depth__ 
 ---
 
-* [Home](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/README.md)
-* [Page1](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/pg1.md)
-* [Page2](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/pg2.md)
+* [Home](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/README.md)
+* [Page1](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/pg1.md)
+* [Page2](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/pg2.md)
 
 ---
 ## __Sampling Audio__
@@ -68,8 +68,8 @@ A list of common sample formats for dB:
 
 [**More information on Dynamic Range and Sampling**](https://manual.audacityteam.org/man/digital_audio.html)
 
-[BACK TO HOME](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/README.md)
-[PAGE 2](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/pg2.md)
+* [BACK TO HOME](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/README.md)
+* [PAGE 2](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/pg2.md)
 
 
 
