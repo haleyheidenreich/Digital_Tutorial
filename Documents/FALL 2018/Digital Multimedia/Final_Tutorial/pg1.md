@@ -37,8 +37,9 @@ Mono-->[One Signal Channel]
 Stereo -->[ Signal One ]
 Stereo -->[ Stereo Two ]
 
----
+![Mono and Stereo](https://github.com/haleyheidenreich/Digital_Tutorial/edit/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/mono-stereo.jpg)
 
+---
 ## __Frequency__
 
 ### The human ear can hear patterns of frequencies between about 20 Hz and 20,000 Hz. 
