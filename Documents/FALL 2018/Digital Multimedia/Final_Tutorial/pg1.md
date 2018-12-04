@@ -64,13 +64,13 @@ A list of common sample formats for dB:
 | 32  | infinite  |   |   |   |
 
 
-| bit | decibels (**dB**) |
+<!-- | bit | decibels (**dB**) |
 | --- | --- |
 | 8 | 48 |
 |16 | 96 |
 | 24 | 145 |
 | --- | --- |
-| 32 | infinite |
+| 32 | infinite | -->
 
 ---
 
