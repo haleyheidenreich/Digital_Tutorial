@@ -37,7 +37,7 @@ Mono-->[One Signal Channel]
 Stereo -->[ Signal One ]
 Stereo -->[ Stereo Two ]
 
-![Mono and Stereo](https://github.com/haleyheidenreich/Digital_Tutorial/edit/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/mono-stereo.jpg)
+![Mono and Stereo](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/pg1.md/mono-stereo.jpg)
 
 ---
 ## __Frequency__
