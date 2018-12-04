@@ -1,10 +1,10 @@
 #  __Digital Audio Software__
 ---
-[navbar]
-* [Home](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/README.md)
-* [Page1](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/pg1.md)
-* [Page2](/Users/HaleyH/Documents/FALL\ 2018/Digital\ Multimedia/Final_Tutorial/pg2.md)
-[/navbar]
+
+* [Home](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/README.md)
+* [Page1](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/pg1.md)
+* [Page2](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/pg2.md)
+
 ---
 
 ## __Software used for Audio Developement__
