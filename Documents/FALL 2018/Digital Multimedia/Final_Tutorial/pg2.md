@@ -1,9 +1,9 @@
 #  __Digital Audio Software__
 ---
 
-* [Home](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/README.md)
-* [Page1](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/pg1.md)
-* [Page2](http://github.com/haleyheidenreich/Digital_Tutorial/blob/master/pg2.md)
+* [Home](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/README.md)
+* [Page1](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/pg1.md)
+* [Page2](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/pg2.md)
 
 ---
 
