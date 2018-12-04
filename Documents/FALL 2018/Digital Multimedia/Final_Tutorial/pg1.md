@@ -40,7 +40,7 @@ Stereo -->[ Stereo Two ]
 ---
 
 ## __Frequency__
----
+
 ### The human ear can hear patterns of frequencies between about 20 Hz and 20,000 Hz. 
 ### Hence, why the sample rating of about 40,000 Hz is the minimum to produce sounds within the range that humans can hear because we have to take the sampling rate and double it to produce a digital sample audible to humans. 
 ### Here is a list of the common sample rates measured in Hz:
