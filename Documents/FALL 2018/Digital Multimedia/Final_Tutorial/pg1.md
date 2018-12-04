@@ -56,21 +56,13 @@ Stereo --> id2[ Stereo Two ]
 ### It is measured in decibels (**dB**), for humans we can only hear anything that is at least 90 dB. 
 ---
 A list of common sample formats for dB:
-| bit | decibels |   |   |   |
-|:-:|:-:|:-:|:-:|:-:|
-| 8  | 48  |   |   |   |
-| 16  | 96  |   |   |   |
-| 24  | 145  |   |   |   |
-| 32  | infinite  |   |   |   |
 
-
-<!-- | bit | decibels (**dB**) |
+| bit | decibels (**dB**) |
 | --- | --- |
 | 8 | 48 |
 |16 | 96 |
 | 24 | 145 |
-| --- | --- |
-| 32 | infinite | -->
+| 32 | infinite | 
 
 ---
 
