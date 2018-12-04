@@ -29,7 +29,7 @@
 
 ### An analog signal is when the audio is replicated from the original sound wave (ex: cassette tapes and vinyls).
 
-![Vinyl Record](https://github.com/haleyheidenreich/Digital_Tutorial/tree/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/album-black-classic-167092.jpg)
+![Vinyl Record](https://github.com/haleyheidenreich/Digital_Tutorial/blob/master/Documents/FALL%202018/Digital%20Multimedia/Final_Tutorial/album-black-classic-167092.jpg)
 
 ### Digital audio signal is when you take **samples** of the original sound wave at a specific rate (ex: CDs and Mp3 files).
 
