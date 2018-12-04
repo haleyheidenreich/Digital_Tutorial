@@ -30,12 +30,14 @@
 ### Mono is where all of the audio recorded is being channeled through one audio channel. 
 ### Stereo is when there are two audio signal channels that can go into different sets of speakers to produce what seems like a reproduction of the original sound however it can create a lot of perspective and depth. 
 
-graph LR
-Mono-- One Signal Channel -->id1[ Mono Channel ]
-end
-graph TB
-Stereo --> id2[ Signal One ]
-Stereo --> id2[ Stereo Two ]
+---
+
+Mono-->[One Signal Channel] 
+
+Stereo -->[ Signal One ]
+Stereo -->[ Stereo Two ]
+
+---
 
 ## __Frequency__
 ---
